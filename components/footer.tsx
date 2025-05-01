@@ -73,6 +73,11 @@ export default function Footer() {
                   Terms of Use
                 </Link>
               </li>
+              <li>
+                <Link href="/data-deletion" className="text-muted-foreground hover:text-foreground transition-colors">
+                  Data Deletion
+                </Link>
+              </li>
             </ul>
           </div>
           

@@ -43,7 +43,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
             <UtensilsIcon className="h-6 w-6" />
-            <span className="text-xl font-bold">Cooking Assistant</span>
+            <span className="text-xl font-bold">Kitchen Assistant</span>
           </Link>
           
           <nav className="hidden md:flex items-center space-x-8">

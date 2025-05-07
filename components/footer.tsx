@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <Link href="/" className="inline-block mb-4">
-              <span className="text-xl font-bold tracking-tight">Cooking Assistant</span>
+              <span className="text-xl font-bold tracking-tight">Kitchen Assistant</span>
             </Link>
             <p className="text-sm text-muted-foreground mb-4">
               AI-powered recipe generation for delicious, personalized meals.
@@ -94,7 +94,7 @@ export default function Footer() {
         </div>
         
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} Cooking Assistant. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Kitchen Assistant. All rights reserved.</p>
         </div>
       </div>
     </footer>

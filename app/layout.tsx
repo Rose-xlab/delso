@@ -8,7 +8,7 @@ import Footer from '@/components/footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Cooking Assistant - AI-Powered Recipe Generator',
+  title: 'Kitchen Assistant - AI-Powered Recipe Generator',
   description: 'Generate personalized recipes with artificial intelligence. Get cooking inspiration, meal plans, and step-by-step instructions.',
 };
 

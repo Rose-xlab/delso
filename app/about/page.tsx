@@ -19,7 +19,7 @@ export default function About() {
         {/* Hero Section */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h1 className="text-4xl font-bold tracking-tight mb-6">
-            About Cooking Assistant
+            About Kitchen Assistant
           </h1>
           <p className="text-xl text-muted-foreground">
             We're revolutionizing home cooking with AI-powered recipe generation, making it easier for everyone to create delicious meals.
@@ -51,7 +51,7 @@ export default function About() {
           >
             <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
             <p className="text-muted-foreground mb-6">
-              At Cooking Assistant, we believe everyone should be able to cook delicious, healthy meals at home. Our AI-powered platform makes cooking accessible, enjoyable, and waste-free by helping you create perfect recipes from the ingredients you already have.
+              At Kitchen Assistant, we believe everyone should be able to cook delicious, healthy meals at home. Our AI-powered platform makes cooking accessible, enjoyable, and waste-free by helping you create perfect recipes from the ingredients you already have.
             </p>
             <div className="space-y-4">
               <div className="flex items-start">
@@ -121,7 +121,7 @@ export default function About() {
             <CardContent className="p-12">
               <h2 className="text-3xl font-bold mb-4">Ready to Start Cooking?</h2>
               <p className="mb-8 text-primary-foreground/90 max-w-2xl mx-auto">
-                Join thousands of home cooks who are already creating amazing meals with Cooking Assistant.
+                Join thousands of home cooks who are already creating amazing meals with Kitchen Assistant.
               </p>
               <Button size="lg" variant="secondary" asChild>
                 <Link href="/#generator">Try Recipe Generator</Link>

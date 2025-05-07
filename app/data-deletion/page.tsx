@@ -41,12 +41,12 @@ export default function DataDeletion() {
       
       <div className="prose dark:prose-invert max-w-none space-y-6 mb-10">
         <p className="text-muted-foreground">
-          In compliance with Facebook's Platform Policy, we provide this tool for users who wish to delete their data from Cooking Assistant.
+          In compliance with Facebook's Platform Policy, we provide this tool for users who wish to delete their data from Kitchen Assistant.
         </p>
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">How We Handle Your Data</h2>
         <p className="text-muted-foreground">
-          Cooking Assistant collects and stores certain user data to provide personalized recipe recommendations and features. This may include:
+          Kitchen Assistant collects and stores certain user data to provide personalized recipe recommendations and features. This may include:
         </p>
         <ul className="list-disc pl-6 text-muted-foreground">
           <li>Account information</li>
@@ -95,7 +95,7 @@ export default function DataDeletion() {
             <div className="flex items-center gap-2 text-primary">
               <Mail className="h-4 w-4" />
               <a href="mailto:privacy@cookingassistant.com" className="hover:underline">
-                privacy@cookingassistant.com
+                privacy@kitchenassistant.com
               </a>
             </div>
           </CardContent>

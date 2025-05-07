@@ -16,14 +16,14 @@ export default function TermsOfUse() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
           <p className="text-muted-foreground">
-            By accessing and using Cooking Assistant, you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
+            By accessing and using Kitchen Assistant, you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
           </p>
         </section>
 
         <section>
           <h2 className="text-2xl font-semibold mb-4">Use License</h2>
           <ul className="list-disc pl-6 text-muted-foreground">
-            <li>Permission is granted to temporarily access the materials on Cooking Assistant's website for personal, non-commercial use only.</li>
+            <li>Permission is granted to temporarily access the materials on Kitchen Assistant's website for personal, non-commercial use only.</li>
             <li>This license shall automatically terminate if you violate any of these restrictions.</li>
             <li>Upon termination, you must destroy any downloaded materials in your possession.</li>
           </ul>
@@ -47,7 +47,7 @@ export default function TermsOfUse() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Disclaimer</h2>
           <ul className="list-disc pl-6 text-muted-foreground">
-            <li>The materials on Cooking Assistant's website are provided on an 'as is' basis.</li>
+            <li>The materials on Kitchen Assistant's website are provided on an 'as is' basis.</li>
             <li>We make no warranties, expressed or implied, and hereby disclaim all warranties.</li>
             <li>We do not guarantee the accuracy or reliability of any recipes or content.</li>
           </ul>
@@ -56,7 +56,7 @@ export default function TermsOfUse() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Limitations</h2>
           <p className="text-muted-foreground">
-            In no event shall Cooking Assistant or its suppliers be liable for any damages arising out of the use or inability to use the materials on our website.
+            In no event shall Kitchen Assistant or its suppliers be liable for any damages arising out of the use or inability to use the materials on our website.
           </p>
         </section>
 
